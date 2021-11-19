@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="Animation">Animation</string>
+    <string name="Start">Start</string>
+    <string name="Stop">Stop</string>
+    <string name="eatingCandy">eating candy</string>
+    <string name="progress">progress</string>
+</resources>

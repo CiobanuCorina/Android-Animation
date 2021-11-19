@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/_0f52f4a_1b50_4341_b51e_1f2f98afbc78.xml" value="0.1921875" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/c4391220_5439_44ec_9716_13437559e44a.xml" value="0.203125" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/db6c6448_73f7_418e_9f1d_edec18a4abcb.xml" value="0.203125" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/dc8b55a4_6b63_40ed_bb66_11bb6dd7ad70.xml" value="0.203125" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/eating.xml" value="0.2703125" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/fb1ac20d_affe_4fde_81fd_97ea4b690f5b.xml" value="0.2109375" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/drawable/picture1.xml" value="0.203125" />
+        <entry key="..\:/Cora/univer/SemV/PAM/Lab4/app/src/main/res/layout/activity_main.xml" value="0.1793478260869565" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
